@@ -6,6 +6,7 @@ using System.Text;
 
 namespace Core.DataAccess
 {
+    //DataAccess.Abstract/   I...Dal
     //generic constraint
     //T:class referans tip olabilir
     //IEntity IEntity olabilir veya IEntity implemente eden bir nesne olabilir.
